@@ -30,7 +30,7 @@ I'm currently working as a backend developer creating internal APIs that are con
 - Proactive
 - Autonomous
 
-<div style="page-break-after: always;"></div>
+\pagebreak
 
 # **Experience**
 
@@ -85,7 +85,7 @@ Developed an internal website for colleagues to access some quick-use data using
 
 Graphic design, videography and editing using Adobe After Effects.
 
-<div style="page-break-after: always;"></div>
+\pagebreak
 
 # **Education**
 
