@@ -30,7 +30,7 @@ I'm currently working as a backend developer creating internal APIs that are con
 - Proactive
 - Autonomous
 
-\pagebreak
+<div style="page-break-before:always"></div>
 
 # **Experience**
 
@@ -85,7 +85,7 @@ Developed an internal website for colleagues to access some quick-use data using
 
 Graphic design, videography and editing using Adobe After Effects.
 
-\pagebreak
+<div style="page-break-before:always"></div>
 
 # **Education**
 
