@@ -36,9 +36,10 @@ I'm currently working as a backend developer creating internal APIs that are con
 
 **2022 - Present: Backend Developer**
 
-*M2Mobi - Amsterdam, Netherlands*
+*Move Agency - Amsterdam, Netherlands*
 
-Development of the backend of mobile applications.
+- API development for aerospace and transportation industry;
+- API development for insurance industry;
 
 --- 
 **2018 - Present, Full Stack Web Developer**
